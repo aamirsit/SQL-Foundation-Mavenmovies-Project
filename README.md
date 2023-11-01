@@ -2,8 +2,9 @@
 Mavenmovies is a movies DVD rental Database.
 Prefer the mavenmovies.sql file to perform operations on it.
 
-Following are the SQL Basic questions based on "mavenmovies" database:
+To Work on this database import "mavenmovies-database.sql" file in workbench or any other platform and you are good to go.
 
+Following are the SQL Basic questions based on "mavenmovies" database:
 
 QUESTION 1 :    Find the titles of movies except starting with 'a' 
 			    that have been rented more than 30 times, 
